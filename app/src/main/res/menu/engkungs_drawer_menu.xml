@@ -1,0 +1,39 @@
+<menu
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<group android:checkableBehavior="single">
+
+		<item
+			android:checked="true"
+			android:id="@+id/engkungs_menu_bahasa_indonesia"
+			android:icon="@drawable/ic_engkungs_bahasa_indonesia"
+			android:title="Bahasa Indonesia"/>
+		<item
+			android:id="@+id/engkungs_menu_bahasa_inggris"
+			android:icon="@drawable/ic_engkungs_bahasa_inggris"
+			android:title="Bahasa Inggris"/>
+		<item
+			android:id="@+id/engkungs_menu_matematika"
+			android:icon="@drawable/ic_engkungs_matematika"
+			android:title="Matematika"/>
+		<item
+			android:id="@+id/engkungs_menu_ipa"
+			android:icon="@drawable/ic_engkungs_ipa"
+			android:title="Ilmu Pengetahuan Alam"/>
+
+	</group>
+	<item 
+		android:title="more">
+		<menu>
+			<group
+				android:checkableBehavior="single">
+					<item 
+					android:title="Tentang"
+					android:id="@+id/engkungs_menu_about"/>
+					</group>
+		</menu>
+	</item>
+	
+</menu>
+
+

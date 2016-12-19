@@ -1,0 +1,31 @@
+body
+{
+  font-size:13pt;
+  color:#555;
+  background-color:#DFDFDF;
+}
+#engkungs{
+ background-color:#fff;
+ padding:5px;
+ margin:5px;
+ box-shadow:0 2px 1px 0px #222;
+}
+.no{
+ color:#262626;
+ background-color:#fff;
+ text-shadow:0 0 2px #84BD78;
+ padding:2;
+ box-shadow:0 2px 1px 0px #222;
+ text-align:center;
+ animation-name:j;
+ animation-duration:17s;
+ 
+}
+.soal{
+ margin:3px;
+ color:#222;
+}
+@keyframes j{
+ from{width:0px;}
+ to{width:100px;}
+}

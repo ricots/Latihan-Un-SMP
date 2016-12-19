@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LatihanUNSMP</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="open_drawer">Open navigation drawer</string>
+	<string name="close_drawer">Close navigation drawer</string>
+
+    <string name="app_mob">ca-app-pub-3339667180563364~1378207931</string>
+</resources>

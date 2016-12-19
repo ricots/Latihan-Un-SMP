@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "548689100106",
+    "firebase_url": "https://latihan-un-smp.firebaseio.com",
+    "project_id": "latihan-un-smp",
+    "storage_bucket": "latihan-un-smp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548689100106:android:d43c66e532399020",
+        "android_client_info": {
+          "package_name": "com.engkungs.unsmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548689100106-i156g1s88sa7ov3jqgvq6q974pk0l64c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDBsstcecGcXhOX9IsjZEh1z7jEy20lDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

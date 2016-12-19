@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical">
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:text="Tentang Aplikasi"
+		android:layout_width="match_parent"
+		android:padding="10dp"
+		android:id="@+id/engkungsaboutTextView1"
+		android:typeface="sans"
+		android:textStyle="bold"
+		android:textSize="16sp"
+		android:gravity="center"
+		android:background="#FFFFFF"/>
+
+	<View
+		android:layout_height="1dp"
+		android:background="?android:attr/dividerVertical"
+		android:layout_width="match_parent"
+		android:layout_margin="10dp"/>
+
+	<RelativeLayout
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:background="#FFFFFF">
+
+		<ImageView
+			android:layout_height="100dp"
+			android:layout_width="100dp"
+			android:src="@drawable/ic_launcher"
+			android:layout_centerInParent="true"
+			android:id="@+id/engkungsaboutImageView1"
+			android:layout_marginBottom="10dp"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="Copyright © 2016"
+			android:layout_width="match_parent"
+			android:layout_below="@id/engkungsaboutImageView1"
+			android:padding="10dp"
+			android:gravity="center"
+			android:id="@+id/engkungsaboutTextView2"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="By Engkungs™"
+			android:layout_width="match_parent"
+			android:layout_below="@id/engkungsaboutTextView2"
+			android:padding="10dp"
+			android:gravity="center"/>
+
+	</RelativeLayout>
+
+</LinearLayout>
+

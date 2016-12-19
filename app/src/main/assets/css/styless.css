@@ -1,0 +1,15 @@
+#engkungs{
+ background-color:#fff;
+ padding:5px;
+ margin:5px;
+ box-shadow:0 2px 1px 0px #222;
+ }
+ body
+{
+  font-size:13pt;
+  color:#555;
+  background-color:#DFDFDF;
+}
+tr{
+  text-align:center;
+}

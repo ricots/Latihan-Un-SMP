@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+		<color name="engkungs_colorPrimary">#009C61</color>
+		<color name="engkungs_colorPrimaryDark">#007A3B</color>
+		<color name="engkungs_colorAccent">#F9FB01</color>
+		<color name="engkungs_white">#FFFFFF</color>
+		<color name="engkungs_yellow">#FFFA00</color>
+		<color name="engkungs_green">#00FF00</color>
+		<color name="engkungs_red">#FF0000</color>
+		<color name="engkungs_blue">#0000ff</color>
+		<color name="engkungs_orange">#ff5000</color>
+		<color name="engkungs_pink">#FB005A</color>
+		<color name="engkungs_violet">#7B00FF</color>
+		<color name="engkungs_grey">#BBBBBB</color>
+		
+	</resources>
